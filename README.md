@@ -1,5 +1,5 @@
 # SynerFuse
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10699/badge)](https://www.bestpractices.dev/projects/10699)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10803/badge)](https://www.bestpractices.dev/projects/10803)
 ## 异构配置方法
 
 ### 异构DP配置
